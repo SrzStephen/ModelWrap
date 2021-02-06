@@ -11,5 +11,7 @@ setup(
     author='Stephen Mott',
     author_email="stephen@mott.email",
     python_requires=">=3.6",
-    install_requires=["pandas", "numpy"]
+    install_requires=["pandas", "numpy"],
+    url="https://github.com/SrzStephen/ModelWrap",
+    classifiers=["Development Status :: 3 - Alpha"]
 )

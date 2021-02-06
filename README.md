@@ -4,5 +4,5 @@ I had to quickly create something and upload it to pypy so that I could get some
  AWS Sagemaker pipeline that I don't own.
  
 ## What is it
-Provides the class ```ModelPerClass``` which implements a custom setup.py that will allow predictions on a single model 
+Provides the class ```ModelPerClass``` which implements a custom predict method that will allow predictions on a single model 
 per unique value in a row of a pandas DataFrame.
